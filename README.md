@@ -1,1 +1,2 @@
 # simple-Linear-Regression-on-Tips
+# For a simple Linear Regression project on tips, you can start by importing your dataset, such as one containing columns like total bill amount and tip amount. Then, preprocess the data by splitting it into training and testing sets. Next, build and train your Linear Regression model using libraries like scikit-learn in Python. Evaluate its performance using metrics such as mean squared error or R-squared to understand how well it predicts tips based on total bill amounts.
